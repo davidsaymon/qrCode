@@ -18,7 +18,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Captura de Tela
 
-![Captura de Tela](./dist/images/screenshot.png)
+![Captura de Tela](./src/images/screenshot.png)
 
 ### Links
 
